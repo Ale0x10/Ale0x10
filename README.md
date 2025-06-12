@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Smart Home Automation and secure local LLM models
 - 👨‍💻 The technologies I'm working with are Zynq SoC, Raspb Pi & other MCs 
 
-You can find moore information to my already done projects and learned skills in my ["repo my-tech-portfolio"](https://github.com/Ale0x10/my-tech-portfolio)
+You can find moore information to my already done projects and learned skills in my ["my-tech-portfolio"](https://github.com/Ale0x10/my-tech-portfolio)
 
 
 
